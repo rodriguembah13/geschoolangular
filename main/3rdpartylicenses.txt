@@ -73,6 +73,12 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @ng-select/ng-select
 MIT
 
+@ngx-loading-bar/core
+MIT
+
+@ngx-loading-bar/http-client
+MIT
+
 @ngx-translate/core
 MIT
 
